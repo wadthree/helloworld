@@ -7,6 +7,7 @@ test repository (like c lang)
 #include <studio.h>
 
 void main(void){
+  printf("hello, world!");
   return 0;
 }
 
